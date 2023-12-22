@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "246282093992",
+    "project_id": "allergy-center",
+    "storage_bucket": "allergy-center.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246282093992:android:3795b57597b32be5bc099d",
+        "android_client_info": {
+          "package_name": "com.example.allergy_center"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246282093992-hjq7hkkc3nn0dtj31g3dhb3rel0huk7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF8jke7my1NmrbUPfRrVjW47dPEB6Ul-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246282093992-hjq7hkkc3nn0dtj31g3dhb3rel0huk7v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "246282093992-cp46i4pbtdradgs99qcmv1og28s3neeu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.allergyCenter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
